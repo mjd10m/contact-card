@@ -26,6 +26,5 @@
   },
   "engines": {
     "node": "17.x"
-  },
-  "heroku-prebuild": "npm install --dev"
+  }
 }
